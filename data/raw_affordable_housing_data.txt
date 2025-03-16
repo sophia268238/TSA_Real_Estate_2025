@@ -1,0 +1,565 @@
+Municipality,County,Region,Present Need,Qualified Urban Aid Municipality,Equalized Nonresidential Valuation Factor,Land Capacity Factor,Income Capacity Factor,Average Allocation Factor,Prospective Need,1000/20% Cap,Prospective Need with 1000/20% Cap
+Absecon city Atlantic 6 39 No 0.97% 1.11% 1.44% 1.17% 22 723 22
+Atlantic City Atlantic 6 875 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+Brigantine city Atlantic 6 13 No 0.98% 0.00% 2.10% 1.03% 19 760 19
+Buena borough Atlantic 6 3 No 0.12% 0.05% 1.26% 0.48% 9 353 9
+Buena Vista township Atlantic 6 22 No 0.74% 0.05% 1.35% 0.71% 13 550 13
+Corbin City Atlantic 6 0 No 0.06% 0.00% 0.84% 0.30% 6 37 6
+Egg Harbor township Atlantic 6 164 No 9.19% 7.77% 6.49% 7.81% 148 1000 148
+Egg Harbor City Atlantic 6 61 No 0.40% 0.51% 0.53% 0.48% 9 342 9
+Estell Manor city Atlantic 6 0 No 0.07% 0.00% 1.45% 0.51% 10 126 10
+Folsom borough Atlantic 6 0 No 0.34% 0.00% 1.46% 0.60% 11 134 11
+Galloway township Atlantic 6 260 No 4.67% 4.50% 4.96% 4.71% 89 1000 89
+Hamilton township Atlantic 6 13 No 3.04% 3.23% 4.05% 3.44% 65 1000 65
+Hammonton town Atlantic 6 64 No 2.73% 2.80% 2.25% 2.59% 49 1000 49
+Linwood city Atlantic 6 49 No 0.91% 0.11% 2.94% 1.32% 25 529 25
+Longport borough Atlantic 6 0 No -0.02% 0.00% 1.17% 0.38% 7 90 7
+Margate City Atlantic 6 19 No 1.08% 0.00% 2.31% 1.13% 21 530 21
+Mullica township Atlantic 6 0 No 0.24% 0.37% 1.48% 0.70% 13 439 13
+Northfield city Atlantic 6 10 No 1.33% 0.16% 2.30% 1.27% 24 623 24
+Pleasantville city Atlantic 6 294 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+Port Republic city Atlantic 6 10 No 0.05% 0.00% 1.62% 0.55% 10 82 10
+Somers Point city Atlantic 6 27 No 3.38% 0.05% 1.50% 1.65% 31 969 31
+Ventnor City Atlantic 6 24 No 0.69% 0.00% 1.55% 0.75% 14 859 14
+Weymouth township Atlantic 6 0 No 0.37% 0.00% 0.77% 0.38% 7 241 7
+Allendale borough Bergen 1 159 No 0.56% 1.21% 1.05% 0.94% 260 465 260
+Alpine borough Bergen 1 0 No 0.17% 1.41% 1.19% 0.93% 257 117 117
+Bergenfield borough Bergen 1 137 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+Bogota borough Bergen 1 26 No 0.23% 0.06% 0.66% 0.32% 88 588 88
+Carlstadt borough Bergen 1 0 No 5.14% 0.01% 0.37% 1.84% 511 486 486
+Cliffside Park borough Bergen 1 150 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+Closter borough Bergen 1 16 No 0.84% 0.57% 1.30% 0.91% 251 552 251
+Cresskill borough Bergen 1 0 No 0.40% 0.11% 1.17% 0.56% 155 603 155
+Demarest borough Bergen 1 0 No 0.03% 0.15% 0.96% 0.38% 106 320 106
+Dumont borough Bergen 1 16 No 0.30% 0.06% 1.03% 0.46% 128 1000 128
+East Rutherford borough Bergen 1 53 No 3.27% 0.69% 0.50% 1.49% 412 861 412
+Edgewater borough Bergen 1 6 No 1.77% 0.02% 1.40% 1.06% 295 1000 295
+Elmwood Park borough Bergen 1 154 No 0.76% 0.25% 0.55% 0.52% 145 1000 145
+Emerson borough Bergen 1 0 No 0.37% 0.70% 0.89% 0.65% 181 496 181
+Englewood city Bergen 1 166 No 2.53% 0.65% 0.94% 1.37% 381 1000 381
+Englewood Cliffs borough Bergen 1 0 No 1.78% 0.36% 1.41% 1.18% 329 369 329
+Fair Lawn borough Bergen 1 65 No 2.12% 0.16% 2.19% 1.49% 412 1000 412
+Fairview borough Bergen 1 313 No 0.94% 0.01% 0.11% 0.35% 97 1000 97
+Fort Lee borough Bergen 1 241 No 2.26% 0.22% 1.66% 1.38% 382 1000 382
+Franklin Lakes borough Bergen 1 65 No 0.57% 3.04% 1.78% 1.79% 497 744 497
+Garfield city Bergen 1 322 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+Glen Rock borough Bergen 1 0 No 0.35% 0.33% 1.72% 0.80% 222 787 222
+Hackensack city Bergen 1 593 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+Harrington Park borough Bergen 1 0 No 0.22% 0.84% 1.13% 0.73% 202 319 202
+Hasbrouck Heights borough Bergen 1 8 No 0.71% 0.13% 0.77% 0.54% 149 907 149
+Haworth borough Bergen 1 0 No 0.20% 1.16% 1.24% 0.87% 242 221 221
+Hillsdale borough Bergen 1 0 No 0.23% 0.77% 1.37% 0.79% 220 700 220
+Ho-Ho-Kus borough Bergen 1 0 No 0.10% 0.66% 1.60% 0.78% 218 283 218
+Leonia borough Bergen 1 68 No 0.31% 0.16% 0.65% 0.37% 104 672 104
+Little Ferry borough Bergen 1 114 No 0.80% 0.02% 0.26% 0.36% 99 870 99
+Lodi borough Bergen 1 140 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+Lyndhurst township Bergen 1 91 No 2.85% 0.09% 1.02% 1.32% 366 1000 366
+Mahwah township Bergen 1 36 No 2.91% 2.49% 1.40% 2.27% 629 1000 629
+Maywood borough Bergen 1 12 No 0.58% 0.06% 0.77% 0.47% 131 743 131
+Midland Park borough Bergen 1 0 No 0.40% 0.40% 0.87% 0.56% 155 550 155
+Montvale borough Bergen 1 30 No 0.55% 1.91% 1.30% 1.26% 348 603 348
+Moonachie borough Bergen 1 102 No 1.97% 1.01% 0.28% 1.09% 301 224 224
+New Milford borough Bergen 1 14 No 0.27% 0.11% 0.85% 0.41% 114 1000 114
+North Arlington borough Bergen 1 36 No 1.37% 0.36% 0.71% 0.82% 227 1000 227
+Northvale borough Bergen 1 8 No 0.53% 0.11% 0.57% 0.40% 112 328 112
+Norwood borough Bergen 1 15 No 0.41% 0.40% 0.93% 0.58% 161 389 161
+Oakland borough Bergen 1 10 No 1.18% 0.74% 1.39% 1.10% 306 871 306
+Old Tappan borough Bergen 1 4 No 0.03% 1.20% 1.28% 0.84% 233 396 233
+Oradell borough Bergen 1 0 No 0.41% 0.15% 1.45% 0.67% 186 556 186
+Palisades Park borough Bergen 1 333 No 1.67% 0.03% 0.69% 0.80% 221 1000 221
+Paramus borough Bergen 1 254 No 12.40% 2.49% 1.58% 5.49% 1523 1000 1000
+Park Ridge borough Bergen 1 137 No 0.07% 0.21% 1.21% 0.50% 138 662 138
+Ramsey borough Bergen 1 51 No 1.60% 2.34% 1.50% 1.81% 503 1000 503
+Ridgefield borough Bergen 1 62 No 1.66% 0.10% 0.64% 0.80% 223 810 223
+Ridgefield Park village Bergen 1 163 No 0.73% 0.06% 0.57% 0.45% 126 997 126
+Ridgewood village Bergen 1 4 No 1.19% 0.41% 3.02% 1.54% 427 1000 427
+River Edge borough Bergen 1 33 No 0.31% 0.18% 1.23% 0.57% 159 838 159
+River Vale township Bergen 1 49 No 0.07% 0.58% 1.46% 0.70% 195 707 195
+Rochelle Park township Bergen 1 10 No 0.61% 0.01% 0.56% 0.39% 109 430 109
+Rockleigh borough Bergen 1 0 No 0.03% 0.29% 0.94% 0.42% 116 14 14
+Rutherford borough Bergen 1 16 No 1.06% 0.12% 1.23% 0.80% 223 1000 223
+Saddle Brook township Bergen 1 42 No 1.70% 0.32% 0.99% 1.00% 279 1000 279
+Saddle River borough Bergen 1 75 No 0.13% 3.58% 1.41% 1.71% 473 249 249
+South Hackensack township Bergen 1 7 No 1.62% 0.00% 0.26% 0.63% 174 184 174
+Teaneck township Bergen 1 214 No 1.51% 1.13% 2.03% 1.55% 431 1000 431
+Tenafly borough Bergen 1 68 No 0.55% 0.55% 2.11% 1.07% 297 983 297
+Teterboro borough Bergen 1 4 No 0.99% 0.01% 0.00% 0.33% 92 5 5
+Upper Saddle River borough Bergen 1 0 No 0.06% 0.65% 1.80% 0.84% 233 532 233
+Waldwick borough Bergen 1 19 No 0.38% 0.44% 1.10% 0.64% 178 715 178
+Wallington borough Bergen 1 81 No 0.53% 0.10% 0.37% 0.33% 92 965 92
+Washington township Bergen 1 0 No 0.11% 0.73% 1.14% 0.66% 184 656 184
+Westwood borough Bergen 1 19 No 1.06% 0.14% 1.34% 0.85% 235 903 235
+Woodcliff Lake borough Bergen 1 0 No 1.39% 1.77% 1.61% 1.59% 441 423 423
+Wood-Ridge borough Bergen 1 17 No 0.43% 0.03% 0.95% 0.47% 130 784 130
+Wyckoff township Bergen 1 40 No 0.58% 1.66% 1.95% 1.39% 387 1000 387
+Bass River township Burlington 5 30 No 0.25% 0.00% 0.50% 0.25% 23 104 23
+Beverly city Burlington 5 15 No 0.03% 0.07% 0.52% 0.21% 19 194 19
+Bordentown city Burlington 5 0 No 0.31% 0.01% 0.60% 0.30% 28 375 28
+Bordentown township Burlington 5 95 No 3.19% 0.79% 1.24% 1.74% 159 901 159
+Burlington city Burlington 5 63 No 0.31% 0.17% 0.49% 0.33% 30 801 30
+Burlington township Burlington 5 132 No 4.41% 4.25% 1.46% 3.37% 308 1000 308
+Chesterfield township Burlington 5 0 No 0.10% 0.00% 1.88% 0.66% 60 402 60
+Cinnaminson township Burlington 5 32 No 0.92% 0.41% 1.74% 1.02% 93 1000 93
+Delanco township Burlington 5 20 No 0.26% 0.31% 0.43% 0.33% 30 406 30
+Delran township Burlington 5 40 No 1.43% 0.41% 1.33% 1.06% 96 1000 96
+Eastampton township Burlington 5 24 No 0.15% 0.14% 0.86% 0.38% 35 490 35
+Edgewater Park township Burlington 5 72 No 1.00% 0.32% 0.62% 0.65% 59 732 59
+Evesham township Burlington 5 111 No 3.94% 0.11% 3.18% 2.41% 220 1000 220
+Fieldsboro borough Burlington 5 0 No 0.01% 0.01% 0.40% 0.14% 13 43 13
+Florence township Burlington 5 42 No 1.49% 0.90% 1.12% 1.17% 107 1000 107
+Hainesport township Burlington 5 0 No 0.82% 0.61% 1.09% 0.84% 77 455 77
+Lumberton township Burlington 5 38 No 1.16% 1.06% 1.27% 1.16% 106 950 106
+Mansfield township Burlington 5 0 No 0.66% 1.00% 1.03% 0.90% 82 709 82
+Maple Shade township Burlington 5 73 No 1.67% 0.05% 0.84% 0.85% 78 1000 78
+Medford township Burlington 5 69 No 1.42% 1.33% 2.86% 1.87% 171 1000 171
+Medford Lakes borough Burlington 5 0 No 0.04% 0.00% 1.12% 0.38% 35 304 35
+Moorestown township Burlington 5 20 No 4.36% 1.04% 2.80% 2.73% 250 1000 250
+Mount Holly township Burlington 5 42 No 0.51% 0.17% 0.66% 0.45% 41 752 41
+Mount Laurel township Burlington 5 46 No 9.08% 1.96% 3.13% 4.72% 431 1000 431
+New Hanover township Burlington 5 1 No 0.07% 0.00% 0.62% 0.23% 21 129 21
+North Hanover township Burlington 5 37 No 0.34% 0.00% 0.59% 0.31% 28 576 28
+Palmyra borough Burlington 5 2 No 0.18% 0.15% 0.67% 0.34% 31 654 31
+Pemberton borough Burlington 5 0 No 0.03% 0.00% 0.45% 0.16% 15 113 15
+Pemberton township Burlington 5 79 No 0.49% 1.05% 1.04% 0.86% 79 1000 79
+Riverside township Burlington 5 126 No 0.11% 0.03% 0.45% 0.20% 18 582 18
+Riverton borough Burlington 5 0 No 0.12% 0.01% 0.86% 0.33% 30 208 30
+Shamong township Burlington 5 0 No 0.13% 0.05% 1.00% 0.39% 36 442 36
+Southampton township Burlington 5 33 No 0.67% 0.03% 0.75% 0.48% 44 931 44
+Springfield township Burlington 5 2 No 0.25% 0.00% 1.05% 0.43% 40 234 40
+Tabernacle township Burlington 5 0 No 0.17% 0.17% 0.89% 0.41% 37 484 37
+Washington township Burlington 5 0 No 0.09% 0.00% 0.35% 0.15% 13 57 13
+Westampton township Burlington 5 0 No 2.15% 2.15% 1.13% 1.81% 165 655 165
+Willingboro township Burlington 5 16 No 0.89% 0.22% 1.42% 0.84% 77 1000 77
+Woodland township Burlington 5 4 No 0.05% 0.00% 1.00% 0.35% 32 94 32
+Wrightstown borough Burlington 5 17 No 0.07% 0.17% 0.14% 0.13% 12 63 12
+Audubon borough Camden 5 0 No 0.41% 0.02% 0.95% 0.46% 42 725 42
+Audubon Park borough Camden 5 4 No 0.00% 0.00% 0.14% 0.05% 4 98 4
+Barrington borough Camden 5 34 No 0.33% 0.08% 0.65% 0.36% 32 639 32
+Bellmawr borough Camden 5 74 No 0.73% 0.09% 0.60% 0.47% 43 956 43
+Berlin borough Camden 5 15 No 0.49% 0.72% 0.83% 0.68% 62 572 62
+Berlin township Camden 5 60 No 1.27% 0.88% 0.63% 0.93% 84 460 84
+Brooklawn borough Camden 5 7 No 0.20% 0.02% 0.21% 0.14% 13 147 13
+Camden city Camden 5 1342 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+Cherry Hill township Camden 5 378 No 12.32% 1.73% 4.72% 6.26% 571 1000 571
+Chesilhurst borough Camden 5 0 No 0.03% 0.70% 0.44% 0.39% 36 114 36
+Clementon borough Camden 5 0 No 0.12% 0.20% 0.33% 0.22% 20 441 20
+Collingswood borough Camden 5 10 No 0.55% 0.00% 0.86% 0.47% 43 1000 43
+Gibbsboro borough Camden 5 14 No 0.17% 0.83% 0.54% 0.51% 47 159 47
+Gloucester township Camden 5 221 No 3.50% 4.60% 3.03% 3.71% 339 1000 339
+Gloucester City Camden 5 7 No 0.40% 0.06% 0.55% 0.34% 31 822 31
+Haddon township Camden 5 35 No 0.67% 0.04% 1.55% 0.75% 69 1000 69
+Haddonfield borough Camden 5 35 No 0.81% 0.03% 2.23% 1.02% 93 882 93
+Haddon Heights borough Camden 5 30 No 0.26% 0.02% 1.12% 0.47% 43 602 43
+Hi-Nella borough Camden 5 5 No 0.01% 0.03% 0.25% 0.10% 9 77 9
+Laurel Springs borough Camden 5 0 No 0.01% 0.01% 0.73% 0.25% 23 150 23
+Lawnside borough Camden 5 29 No 0.28% 0.47% 0.39% 0.38% 35 230 35
+Lindenwold borough Camden 5 293 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+Magnolia borough Camden 5 0 No 0.24% 0.06% 0.43% 0.24% 22 355 22
+Merchantville borough Camden 5 15 No 0.10% 0.00% 0.39% 0.16% 15 312 15
+Mount Ephraim borough Camden 5 40 No 0.18% 0.02% 0.53% 0.24% 22 388 22
+Oaklyn borough Camden 5 31 No 0.08% 0.01% 0.50% 0.20% 18 352 18
+Pennsauken township Camden 5 392 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+Pine Hill borough Camden 5 53 No 0.16% 1.89% 0.53% 0.86% 79 882 79
+Runnemede borough Camden 5 59 No 0.46% 0.13% 0.68% 0.43% 39 675 39
+Somerdale borough Camden 5 5 No 0.33% 0.09% 0.58% 0.33% 30 458 30
+Stratford borough Camden 5 10 No 0.12% 0.02% 0.68% 0.27% 25 536 25
+Tavistock borough Camden 5 0 No 0.08% 0.00% 1.75% 0.61% 56 0 0
+Voorhees township Camden 5 289 No 3.17% 1.46% 2.13% 2.25% 206 1000 206
+Waterford township Camden 5 10 No 0.21% 0.55% 0.95% 0.57% 52 759 52
+Winslow township Camden 5 132 No 1.61% 6.26% 1.73% 3.20% 292 1000 292
+Woodlynne borough Camden 5 7 No 0.02% 0.01% 0.31% 0.11% 10 180 10
+Avalon borough Cape-May 6 0 No 2.64% 0.00% 2.22% 1.62% 31 127 31
+Cape May city Cape-May 6 46 No 6.72% 0.00% 0.83% 2.52% 48 276 48
+Cape May Point borough Cape-May 6 0 No -0.01% 0.00% 0.77% 0.25% 5 30 5
+Dennis township Cape-May 6 0 No 2.83% 0.30% 2.15% 1.76% 33 472 33
+Lower township Cape-May 6 75 No 4.24% 1.53% 3.07% 2.95% 56 1000 56
+Middle township Cape-May 6 51 No 7.23% 2.58% 3.08% 4.30% 81 1000 81
+North Wildwood city Cape-May 6 39 No 2.89% 0.00% 1.24% 1.38% 26 384 26
+Ocean City Cape-May 6 160 No 7.82% 0.00% 3.01% 3.61% 68 1000 68
+Sea Isle City Cape-May 6 0 No 2.71% 0.00% 1.22% 1.31% 25 220 25
+Stone Harbor borough Cape-May 6 0 No 2.46% 0.00% 1.67% 1.38% 26 80 26
+Upper township Cape-May 6 0 No 2.74% 1.54% 3.22% 2.50% 47 964 47
+West Cape-May borough Cape-May 6 0 No 0.78% 0.00% 0.94% 0.57% 11 100 11
+West Wildwood borough Cape-May 6 8 No 0.14% 0.00% 0.44% 0.19% 4 52 4
+Wildwood city Cape-May 6 15 No 7.03% 0.00% 0.53% 2.52% 48 457 48
+Wildwood Crest borough Cape-May 6 10 No 3.16% 0.00% 0.83% 1.33% 25 295 25
+Woodbine borough Cape-May 6 27 No 0.24% 3.81% 0.21% 1.42% 27 145 27
+Bridgeton city Cumberland 6 290 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+Commercial township Cumberland 6 2 No 0.15% 0.75% 0.60% 0.50% 9 355 9
+Deerfield township Cumberland 6 3 No 0.24% 0.00% 0.96% 0.40% 8 221 8
+Downe township Cumberland 6 4 No 0.00% 0.00% 0.54% 0.18% 3 117 3
+Fairfield township Cumberland 6 35 No 0.25% 5.01% 0.69% 1.98% 37 352 37
+Greenwich township Cumberland 6 4 No 0.01% 0.00% 1.02% 0.34% 7 63 7
+Hopewell township Cumberland 6 31 No 0.50% 8.78% 1.34% 3.54% 67 329 67
+Lawrence township Cumberland 6 17 No 0.06% 0.00% 1.10% 0.39% 7 214 7
+Maurice River township Cumberland 6 0 No 0.34% 0.08% 0.81% 0.41% 8 251 8
+Millville city Cumberland 6 132 No 3.94% 12.09% 2.72% 6.25% 118 1000 118
+Shiloh borough Cumberland 6 0 No 0.02% 0.00% 0.85% 0.29% 5 39 5
+Stow Creek township Cumberland 6 4 No 0.04% 0.00% 1.16% 0.40% 8 104 8
+Upper Deerfield township Cumberland 6 31 No 1.61% 15.75% 1.32% 6.23% 118 568 118
+Vineland city Cumberland 6 276 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+Belleville township Essex 2 324 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+Bloomfield township Essex 2 329 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+Caldwell borough Essex 2 57 No 0.38% 0.01% 0.76% 0.38% 79 708 79
+Cedar Grove township Essex 2 15 No 0.74% 0.46% 1.29% 0.83% 170 951 170
+City of Orange township Essex 2 678 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+East Orange city Essex 2 1850 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+Essex Fells borough Essex 2 0 No 0.02% 0.40% 1.39% 0.60% 124 150 124
+Fairfield township Essex 2 0 No 4.90% 1.00% 0.63% 2.18% 447 549 447
+Glen Ridge borough Essex 2 0 No 0.78% 0.00% 1.83% 0.87% 178 506 178
+Irvington township Essex 2 1404 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+Livingston township Essex 2 0 No 2.69% 1.06% 3.00% 2.25% 461 1000 461
+Maplewood township Essex 2 20 No 1.14% 0.03% 1.99% 1.05% 216 1000 216
+Millburn township Essex 2 0 No 4.60% 0.46% 3.06% 2.71% 555 1000 555
+Montclair township Essex 2 132 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+Newark city Essex 2 4630 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+North Caldwell borough Essex 2 0 No 0.06% 0.18% 1.49% 0.58% 118 452 118
+Nutley township Essex 2 85 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+Roseland borough Essex 2 0 No 0.72% 0.70% 0.81% 0.74% 152 505 152
+South Orange Village twp. Essex 2 20 No 0.64% 0.03% 1.71% 0.80% 163 1000 163
+Verona township Essex 2 0 No 0.65% 0.45% 1.43% 0.84% 173 1000 173
+West Caldwell township Essex 2 4 No 2.22% 0.61% 1.15% 1.33% 272 801 272
+West Orange township Essex 2 409 No 2.20% 5.17% 2.28% 3.22% 660 1000 660
+Clayton borough Gloucester 5 1 No 0.22% 1.13% 0.77% 0.71% 65 646 65
+Deptford township Gloucester 5 87 No 3.91% 7.57% 1.59% 4.36% 398 1000 398
+East Greenwich township Gloucester 5 0 No 0.37% 3.13% 1.53% 1.68% 153 787 153
+Elk township Gloucester 5 17 No 0.19% 5.67% 1.17% 2.34% 214 317 214
+Franklin township Gloucester 5 48 No 0.54% 6.71% 1.07% 2.78% 253 1000 253
+Glassboro borough Gloucester 5 121 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+Greenwich township Gloucester 5 18 No 0.82% 1.87% 0.63% 1.11% 101 395 101
+Harrison township Gloucester 5 40 No 0.76% 7.14% 2.14% 3.35% 306 887 306
+Logan township Gloucester 5 0 No 8.57% 2.84% 0.88% 4.10% 374 419 374
+Mantua township Gloucester 5 21 No 1.02% 2.22% 1.32% 1.52% 139 1000 139
+Monroe township Gloucester 5 50 No 1.82% 6.12% 2.01% 3.32% 303 1000 303
+National Park borough Gloucester 5 10 No 0.03% 0.08% 0.47% 0.19% 18 225 18
+Newfield borough Gloucester 5 0 No 0.04% 0.00% 0.63% 0.22% 20 130 20
+Paulsboro borough Gloucester 5 130 No 0.12% 0.13% 0.28% 0.18% 16 463 16
+Pitman borough Gloucester 5 55 No 0.04% 0.26% 0.81% 0.37% 34 682 34
+South Harrison township Gloucester 5 14 No 0.25% 0.01% 0.92% 0.39% 36 221 36
+Swedesboro borough Gloucester 5 5 No 0.19% 0.11% 0.55% 0.28% 26 191 26
+Washington township Gloucester 5 157 No 4.72% 4.36% 2.82% 3.97% 362 1000 362
+Wenonah borough Gloucester 5 0 No 0.03% 0.05% 0.87% 0.31% 29 169 29
+West Deptford township Gloucester 5 42 No 2.66% 4.71% 1.17% 2.85% 260 1000 260
+Westville borough Gloucester 5 16 No 0.20% 0.02% 0.31% 0.18% 16 351 16
+Woodbury city Gloucester 5 147 Yes 0.00% 0.00% 0.00% 0.00% 0 814 0
+Woodbury Heights borough Gloucester 5 15 No 0.24% 0.19% 0.77% 0.40% 36 219 36
+Woolwich township Gloucester 5 16 No 0.62% 5.51% 1.78% 2.64% 241 820 241
+Bayonne city Hudson 1 749 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+East Newark borough Hudson 1 31 No 0.16% 0.00% 0.08% 0.08% 22 178 22
+Guttenberg town Hudson 1 116 No 0.29% 0.00% 0.32% 0.20% 56 984 56
+Harrison town Hudson 1 257 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+Hoboken city Hudson 1 126 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+Jersey City Hudson 1 3733 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+Kearny town Hudson 1 630 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+North Bergen township Hudson 1 596 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+Secaucus town Hudson 1 25 No 6.95% 5.45% 1.46% 4.62% 1282 1000 1000
+Union City Hudson 1 2088 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+Weehawken township Hudson 1 84 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+West New York town Hudson 1 1173 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+Alexandria township Hunterdon 3 0 No 0.05% 0.68% 1.22% 0.65% 75 350 75
+Bethlehem township Hunterdon 3 0 No 0.05% 0.00% 1.28% 0.44% 51 269 51
+Bloomsbury borough Hunterdon 3 0 No 0.05% 0.00% 0.32% 0.13% 15 68 15
+Califon borough Hunterdon 3 0 No 0.03% 0.00% 0.56% 0.20% 23 81 23
+Clinton town Hunterdon 3 3 No 0.15% 0.24% 1.00% 0.46% 54 223 54
+Clinton township Hunterdon 3 0 No 0.38% 2.24% 1.88% 1.50% 174 932 174
+Delaware township Hunterdon 3 0 No 0.06% 0.00% 1.49% 0.52% 60 359 60
+East Amwell township Hunterdon 3 4 No 0.28% 0.00% 0.85% 0.38% 44 310 44
+Flemington borough Hunterdon 3 74 No 0.23% 0.02% 0.40% 0.22% 25 371 25
+Franklin township Hunterdon 3 0 No 0.04% 0.11% 1.19% 0.44% 52 234 52
+Frenchtown borough Hunterdon 3 11 No 0.07% 0.00% 0.49% 0.19% 22 126 22
+Glen Gardner borough Hunterdon 3 10 No 0.01% 0.00% 0.27% 0.09% 11 157 11
+Hampton borough Hunterdon 3 0 No 0.01% 0.00% 0.21% 0.07% 9 122 9
+High Bridge borough Hunterdon 3 4 No 0.09% 0.12% 0.64% 0.28% 33 285 33
+Holland township Hunterdon 3 0 No -0.01% 0.17% 0.95% 0.37% 43 400 43
+Kingwood township Hunterdon 3 20 No 0.12% 0.00% 1.19% 0.44% 50 295 50
+Lambertville city Hunterdon 3 0 No 0.37% 0.00% 0.65% 0.34% 39 419 39
+Lebanon borough Hunterdon 3 7 No 0.16% 0.05% 0.59% 0.27% 31 159 31
+Lebanon township Hunterdon 3 0 No 0.10% 0.00% 1.09% 0.40% 46 474 46
+Milford borough Hunterdon 3 3 No -0.03% 0.25% 0.37% 0.20% 23 105 23
+Raritan township Hunterdon 3 44 No 2.72% 3.38% 2.59% 2.90% 336 1000 336
+Readington township Hunterdon 3 45 No 0.67% 12.00% 1.84% 4.84% 561 1000 561
+Stockton borough Hunterdon 3 0 No 0.03% 0.00% 0.48% 0.17% 20 47 20
+Tewksbury township Hunterdon 3 0 No 0.11% 0.10% 1.74% 0.65% 76 437 76
+Union township Hunterdon 3 0 No 0.14% 2.01% 0.89% 1.01% 118 368 118
+West Amwell township Hunterdon 3 0 No 0.12% 0.00% 0.90% 0.34% 39 229 39
+East Windsor township Mercer 4 166 No 2.28% 4.29% 1.42% 2.66% 368 1000 368
+Ewing township Mercer 4 99 No 2.93% 2.93% 1.06% 2.31% 319 1000 319
+Hamilton township Mercer 4 186 No 6.85% 2.41% 2.60% 3.95% 546 1000 546
+Hightstown borough Mercer 4 47 No 0.16% 0.01% 0.58% 0.25% 35 419 35
+Hopewell borough Mercer 4 0 No 0.09% 0.00% 0.76% 0.28% 39 157 39
+Hopewell township Mercer 4 8 No 2.85% 6.90% 2.05% 3.93% 543 1000 543
+Lawrence township Mercer 4 68 No 3.67% 1.47% 1.81% 2.32% 320 1000 320
+Pennington borough Mercer 4 4 No 0.17% 0.02% 1.06% 0.42% 58 206 58
+Princeton Mercer 4 60 No 2.08% 1.35% 2.56% 2.00% 276 1000 276
+Robbinsville township Mercer 4 40 No 2.59% 2.95% 1.76% 2.43% 336 1000 336
+Trenton city Mercer 4 1084 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+West Windsor township Mercer 4 61 No 4.42% 6.87% 3.06% 4.78% 661 1000 661
+Carteret borough Middlesex 3 164 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+Cranbury township Middlesex 3 0 No 4.48% 1.82% 1.82% 2.71% 314 265 265
+Dunellen borough Middlesex 3 79 No 0.14% 0.01% 0.45% 0.20% 23 524 23
+East Brunswick township Middlesex 3 170 No 3.09% 1.69% 3.34% 2.71% 314 1000 314
+Edison township Middlesex 3 637 No 12.80% 1.30% 4.69% 6.27% 727 1000 727
+Helmetta borough Middlesex 3 3 No 0.01% 0.04% 0.58% 0.21% 24 210 24
+Highland Park borough Middlesex 3 209 No 0.25% 0.08% 0.83% 0.38% 45 1000 45
+Jamesburg borough Middlesex 3 19 No 0.17% 0.03% 0.80% 0.33% 38 423 38
+Metuchen borough Middlesex 3 5 No 1.07% 0.08% 1.95% 1.03% 120 1000 120
+Middlesex borough Middlesex 3 14 No 1.07% 0.09% 0.93% 0.70% 81 1000 81
+Milltown borough Middlesex 3 13 No 0.23% 0.06% 1.02% 0.44% 51 523 51
+Monroe township Middlesex 3 76 No 4.78% 12.19% 2.45% 6.47% 751 1000 751
+New Brunswick city Middlesex 3 1225 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+North Brunswick township Middlesex 3 130 No 3.29% 0.83% 2.07% 2.06% 239 1000 239
+Old Bridge township Middlesex 3 318 No 3.02% 12.32% 2.39% 5.91% 685 1000 685
+Perth Amboy city Middlesex 3 987 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+Piscataway township Middlesex 3 150 No 9.71% 1.51% 2.73% 4.65% 539 1000 539
+Plainsboro township Middlesex 3 53 No 2.50% 3.67% 1.81% 2.66% 309 1000 309
+Sayreville borough Middlesex 3 194 No 2.21% 3.19% 1.58% 2.32% 270 1000 270
+South Amboy city Middlesex 3 19 No 0.34% 0.26% 0.68% 0.43% 49 748 49
+South Brunswick township Middlesex 3 132 No 9.68% 11.74% 3.37% 8.27% 959 1000 959
+South Plainfield borough Middlesex 3 54 No 3.55% 0.15% 1.67% 1.79% 208 1000 208
+South River borough Middlesex 3 66 No 0.60% 0.20% 0.81% 0.53% 62 1000 62
+Spotswood borough Middlesex 3 7 No 0.23% 0.14% 0.71% 0.36% 42 639 42
+Woodbridge township Middlesex 3 694 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+Aberdeen township Monmouth 4 0 No 0.66% 0.21% 1.34% 0.73% 101 1000 101
+Allenhurst borough Monmouth 4 4 No 0.16% 0.00% 0.38% 0.18% 25 40 25
+Allentown borough Monmouth 4 0 No 0.03% 0.03% 0.56% 0.21% 28 139 28
+Asbury Park city Monmouth 4 214 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+Atlantic Highlands borough Monmouth 4 0 No 0.28% 0.05% 0.72% 0.35% 48 390 48
+Avon-by-the-Sea borough Monmouth 4 5 No 0.11% 0.00% 0.52% 0.21% 29 180 29
+Belmar borough Monmouth 4 0 No 0.45% 0.00% 0.49% 0.31% 43 573 43
+Bradley Beach borough Monmouth 4 64 No 0.20% 0.00% 0.44% 0.22% 30 431 30
+Brielle borough Monmouth 4 0 No 0.26% 0.03% 1.12% 0.47% 65 390 65
+Colts Neck township Monmouth 4 0 No 0.48% 0.00% 1.71% 0.73% 101 661 101
+Deal borough Monmouth 4 5 No 0.10% 0.01% 0.22% 0.11% 15 69 15
+Eatontown borough Monmouth 4 20 No 3.14% 0.39% 0.66% 1.40% 193 1000 193
+Englishtown borough Monmouth 4 25 No 0.14% 0.03% 0.47% 0.21% 30 158 30
+Fair Haven borough Monmouth 4 0 No 0.15% 0.01% 1.85% 0.67% 92 399 92
+Farmingdale borough Monmouth 4 0 No 0.10% 0.00% 0.39% 0.16% 22 123 22
+Freehold borough Monmouth 4 270 No 0.67% 0.03% 0.35% 0.35% 49 829 49
+Freehold township Monmouth 4 39 No 4.49% 5.70% 2.13% 4.11% 568 1000 568
+Hazlet township Monmouth 4 0 No 1.10% 0.67% 1.28% 1.02% 140 1000 140
+Highlands borough Monmouth 4 0 No 0.20% 0.00% 0.45% 0.22% 30 485 30
+Holmdel township Monmouth 4 129 No 0.18% 0.76% 1.94% 0.96% 133 1000 133
+Howell township Monmouth 4 63 No 2.77% 1.84% 2.72% 2.45% 338 1000 338
+Interlaken borough Monmouth 4 0 No 0.00% 0.00% 0.85% 0.28% 39 72 39
+Keansburg borough Monmouth 4 91 No 0.23% 0.00% 0.44% 0.23% 31 762 31
+Keyport borough Monmouth 4 29 No 0.43% 0.02% 0.37% 0.27% 37 640 37
+Lake Como borough Monmouth 4 11 No 0.10% 0.00% 0.32% 0.14% 19 156 19
+Little Silver borough Monmouth 4 0 No 0.30% 0.06% 1.76% 0.71% 98 439 98
+Loch Arbour village Monmouth 4 0 No 0.01% 0.00% 0.57% 0.19% 27 19 19
+Long Branch city Monmouth 4 317 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+Manalapan township Monmouth 4 62 No 1.51% 1.79% 2.82% 2.04% 282 1000 282
+Manasquan borough Monmouth 4 0 No 0.55% 0.00% 0.90% 0.48% 67 492 67
+Marlboro township Monmouth 4 5 No 2.25% 7.02% 3.30% 4.19% 579 1000 579
+Matawan borough Monmouth 4 0 No 0.41% 0.13% 0.99% 0.51% 70 770 70
+Middletown township Monmouth 4 186 No 1.58% 2.10% 3.84% 2.50% 346 1000 346
+Millstone township Monmouth 4 7 No 0.37% 0.00% 1.75% 0.71% 98 665 98
+Monmouth Beach borough Monmouth 4 0 No 0.09% 0.00% 0.92% 0.34% 47 290 47
+Neptune township Monmouth 4 97 No 1.83% 0.84% 1.02% 1.23% 170 1000 170
+Neptune City borough Monmouth 4 12 No 0.31% 0.01% 0.38% 0.23% 32 422 32
+Ocean township Monmouth 4 51 No 1.60% 0.54% 1.47% 1.20% 166 1000 166
+Oceanport borough Monmouth 4 0 No 0.35% 0.05% 0.93% 0.44% 61 469 61
+Red Bank borough Monmouth 4 54 No 2.64% 0.01% 0.70% 1.12% 154 1000 154
+Roosevelt borough Monmouth 4 30 No 0.00% 0.00% 0.43% 0.14% 20 61 20
+Rumson borough Monmouth 4 0 No 0.41% 0.02% 2.11% 0.85% 117 480 117
+Sea Bright borough Monmouth 4 0 No 0.46% 0.00% 0.54% 0.33% 46 159 46
+Sea Girt borough Monmouth 4 0 No 0.11% 0.04% 1.43% 0.53% 73 157 73
+Shrewsbury borough Monmouth 4 35 No 1.05% 0.02% 1.03% 0.70% 97 291 97
+Shrewsbury township Monmouth 4 4 No 0.00% 0.00% 0.26% 0.09% 12 101 12
+Spring Lake borough Monmouth 4 10 No 0.47% 0.01% 1.00% 0.49% 68 245 68
+Spring Lake Heights borough Monmouth 4 35 No 0.32% 0.01% 0.62% 0.32% 44 486 44
+Tinton Falls borough Monmouth 4 413 No 2.31% 1.22% 1.21% 1.58% 219 1000 219
+Union Beach borough Monmouth 4 0 No 0.06% 0.12% 0.79% 0.32% 45 407 45
+Upper Freehold township Monmouth 4 15 No 0.20% 0.00% 1.32% 0.51% 70 494 70
+Wall township Monmouth 4 224 No 5.75% 8.47% 1.94% 5.38% 744 1000 744
+West Long Branch borough Monmouth 4 0 No 0.53% 0.06% 0.76% 0.45% 62 510 62
+Boonton town Morris 2 23 No 0.72% 1.00% 0.52% 0.75% 153 682 153
+Boonton township Morris 2 4 No 0.09% 0.14% 0.95% 0.40% 81 301 81
+Butler borough Morris 2 0 No 0.56% 0.17% 0.65% 0.46% 94 652 94
+Chatham borough Morris 2 8 No 0.59% 0.07% 1.99% 0.88% 181 611 181
+Chatham township Morris 2 30 No 0.28% 0.23% 1.77% 0.76% 156 793 156
+Chester borough Morris 2 10 No 0.38% 0.03% 0.65% 0.35% 72 127 72
+Chester township Morris 2 0 No 0.08% 0.06% 1.62% 0.59% 120 515 120
+Denville township Morris 2 58 No 1.65% 3.89% 1.56% 2.37% 485 1000 485
+Dover town Morris 2 349 No 1.31% 0.05% 0.30% 0.55% 113 1000 113
+East Hanover township Morris 2 0 No 2.56% 0.99% 1.06% 1.54% 315 787 315
+Florham Park borough Morris 2 66 No 2.16% 1.75% 1.12% 1.68% 344 894 344
+Hanover township Morris 2 69 No 4.85% 1.77% 1.34% 2.65% 544 1000 544
+Harding township Morris 2 0 No 0.16% 0.26% 0.80% 0.40% 83 284 83
+Jefferson township Morris 2 52 No 0.59% 2.22% 1.20% 1.34% 274 1000 274
+Kinnelon borough Morris 2 22 No 0.21% 0.00% 1.28% 0.50% 102 681 102
+Lincoln Park borough Morris 2 15 No 0.43% 1.79% 0.74% 0.98% 202 813 202
+Long Hill township Morris 2 0 No 0.43% 0.01% 1.06% 0.50% 102 624 102
+Madison borough Morris 2 0 No 1.11% 0.37% 1.53% 1.00% 206 1000 206
+Mendham borough Morris 2 0 No 0.18% 0.40% 1.37% 0.65% 133 352 133
+Mendham township Morris 2 0 No 0.02% 0.06% 1.67% 0.58% 120 397 120
+Mine Hill township Morris 2 13 No 0.18% 0.28% 0.50% 0.32% 65 295 65
+Montville township Morris 2 9 No 1.19% 2.95% 1.86% 2.00% 410 1000 410
+Morris township Morris 2 9 No 0.63% 5.37% 2.34% 2.78% 571 1000 571
+Morris Plains borough Morris 2 0 No 0.43% 0.68% 0.90% 0.67% 137 486 137
+Morristown town Morris 2 140 No 2.93% 0.89% 1.17% 1.66% 341 1000 341
+Mountain Lakes borough Morris 2 0 No 0.29% 2.03% 1.59% 1.30% 267 275 267
+Mount Arlington borough Morris 2 38 No 0.23% 0.20% 0.45% 0.29% 60 530 60
+Mount Olive township Morris 2 99 No 1.49% 3.98% 1.23% 2.24% 459 1000 459
+Netcong borough Morris 2 24 No 0.14% 0.28% 0.31% 0.24% 50 287 50
+Parsippany-Troy Hills township Morris 2 138 No 4.75% 1.20% 2.15% 2.70% 553 1000 553
+Pequannock township Morris 2 44 No 1.14% 2.00% 0.95% 1.37% 280 1000 280
+Randolph township Morris 2 84 No 1.69% 1.30% 2.21% 1.73% 355 1000 355
+Riverdale borough Morris 2 44 No 0.78% 0.35% 0.48% 0.54% 110 386 110
+Rockaway borough Morris 2 195 No 0.45% 0.17% 0.44% 0.36% 73 512 73
+Rockaway township Morris 2 20 No 2.52% 2.24% 1.60% 2.12% 435 1000 435
+Roxbury township Morris 2 59 No 2.34% 10.87% 1.26% 4.82% 989 1000 989
+Victory Gardens borough Morris 2 8 No 0.03% 0.00% 0.06% 0.03% 6 114 6
+Washington township Morris 2 20 No 0.37% 0.80% 1.83% 1.00% 205 1000 205
+Wharton borough Morris 2 91 No 0.58% 0.08% 0.43% 0.36% 74 521 74
+Barnegat Light borough Ocean 4 0 No 0.16% 2.60% 0.37% 1.04% 144 64 64
+Barnegat township Ocean 4 38 No 0.75% 0.00% 0.79% 0.51% 71 1000 71
+Bay Head borough Ocean 4 0 No 0.21% 0.02% 0.65% 0.29% 40 87 40
+Beach Haven borough Ocean 4 1 No 0.52% 0.00% 0.52% 0.35% 48 97 48
+Beachwood borough Ocean 4 8 No 0.16% 0.17% 0.68% 0.34% 47 744 47
+Berkeley township Ocean 4 150 No 1.25% 2.61% 0.68% 1.51% 209 1000 209
+Brick township Ocean 4 149 No 3.97% 1.58% 2.26% 2.60% 360 1000 360
+Eagleswood township Ocean 4 0 No 0.10% 0.06% 0.39% 0.18% 25 135 25
+Harvey Cedars borough Ocean 4 0 No 0.06% 0.00% 0.60% 0.22% 31 40 31
+Island Heights borough Ocean 4 5 No 0.08% 0.04% 0.49% 0.20% 28 144 28
+Jackson township Ocean 4 186 No 3.17% 15.26% 2.27% 6.90% 954 1000 954
+Lacey township Ocean 4 52 No 1.77% 0.81% 1.16% 1.24% 172 1000 172
+Lakehurst borough Ocean 4 0 No 0.11% 0.05% 0.29% 0.15% 21 182 21
+Lakewood township Ocean 4 878 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+Lavallette borough Ocean 4 4 No 0.18% 0.00% 0.54% 0.24% 34 185 34
+Little Egg Harbor township Ocean 4 32 No 0.76% 2.47% 0.76% 1.33% 184 1000 184
+Long Beach township Ocean 4 0 No 0.41% 0.00% 0.61% 0.34% 47 319 47
+Manchester township Ocean 4 154 No 1.89% 6.70% 0.36% 2.98% 412 1000 412
+Mantoloking borough Ocean 4 0 No 0.04% 0.00% 1.44% 0.49% 68 32 32
+Ocean township Ocean 4 56 No 0.41% 0.43% 0.67% 0.50% 69 796 69
+Ocean Gate borough Ocean 4 0 No 0.02% 0.01% 0.19% 0.07% 10 170 10
+Pine Beach borough Ocean 4 0 No 0.03% 0.02% 0.60% 0.22% 30 168 30
+Plumsted township Ocean 4 22 No 0.21% 0.00% 0.50% 0.24% 33 599 33
+Point Pleasant borough Ocean 4 41 No 0.89% 0.03% 1.10% 0.67% 93 1000 93
+Point Pleasant Beach borough Ocean 4 10 No 1.18% 0.03% 0.73% 0.65% 89 409 89
+Seaside Heights borough Ocean 4 20 No 0.71% 0.00% 0.06% 0.26% 36 230 36
+Seaside Park borough Ocean 4 0 No 0.08% 0.00% 0.31% 0.13% 18 154 18
+Ship Bottom borough Ocean 4 0 No 0.55% 0.00% 0.40% 0.32% 44 110 44
+South Toms River borough Ocean 4 0 No 0.15% 0.16% 0.45% 0.25% 35 216 35
+Stafford township Ocean 4 38 No 2.49% 0.71% 1.32% 1.51% 208 1000 208
+Surf City borough Ocean 4 2 No 0.31% 0.00% 0.53% 0.28% 39 129 39
+Toms River township Ocean 4 526 No 7.25% 4.59% 2.71% 4.85% 670 1000 670
+Tuckerton borough Ocean 4 0 No 0.16% 0.19% 0.34% 0.23% 32 315 32
+Bloomingdale borough Passaic 1 0 No 0.16% 3.77% 0.77% 1.57% 434 622 434
+Clifton city Passaic 1 884 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+Haledon borough Passaic 1 45 No 0.33% 0.91% 0.50% 0.58% 160 603 160
+Hawthorne borough Passaic 1 105 No 1.06% 1.26% 0.92% 1.08% 300 1000 300
+Little Falls township Passaic 1 0 No 0.65% 1.46% 0.97% 1.03% 285 944 285
+North Haledon borough Passaic 1 0 No 0.18% 1.49% 0.80% 0.82% 228 611 228
+Passaic city Passaic 1 3179 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+Paterson city Passaic 1 3966 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+Pompton Lakes borough Passaic 1 45 No 0.37% 0.01% 0.76% 0.38% 106 840 106
+Prospect Park borough Passaic 1 77 No 0.10% 0.67% 0.02% 0.26% 73 386 73
+Ringwood borough Passaic 1 26 No 0.32% 0.00% 1.11% 0.48% 133 836 133
+Totowa borough Passaic 1 211 No 3.58% 1.43% 0.70% 1.90% 528 780 528
+Wanaque borough Passaic 1 15 No 0.22% 1.06% 0.70% 0.66% 183 878 183
+Wayne township Passaic 1 162 No 6.19% 9.41% 3.28% 6.29% 1746 1000 1000
+West Milford township Passaic 1 105 No 0.72% 0.00% 1.41% 0.71% 197 1000 197
+Woodland Park borough Passaic 1 153 No 0.83% 2.37% 0.53% 1.25% 346 1000 346
+Alloway township Salem 6 20 No 0.09% 0.00% 1.72% 0.61% 11 245 11
+Carneys Point township Salem 6 43 No 2.77% 10.65% 1.41% 4.94% 93 677 93
+Elmer borough Salem 6 7 No 0.22% 0.00% 1.01% 0.41% 8 102 8
+Elsinboro township Salem 6 0 No 0.02% 0.00% 0.92% 0.31% 6 92 6
+Lower Alloways Creek township Salem 6 0 No 1.07% 0.00% 0.78% 0.62% 12 139 12
+Mannington township Salem 6 0 No 0.12% 0.00% 1.16% 0.43% 8 102 8
+Oldmans township Salem 6 0 No 1.05% 10.97% 1.33% 4.45% 84 141 84
+Penns Grove borough Salem 6 7 No 0.23% 0.02% 0.00% 0.09% 2 337 2
+Pennsville township Salem 6 69 No 0.06% 5.43% 1.87% 2.45% 46 1000 46
+Pilesgrove township Salem 6 0 No 0.58% 0.00% 2.52% 1.04% 20 314 20
+Pittsgrove township Salem 6 25 No 0.46% 0.00% 1.47% 0.64% 12 644 12
+Quinton township Salem 6 4 No 0.24% 0.00% 1.00% 0.41% 8 209 8
+Salem city Salem 6 10 No 0.36% 0.00% 0.14% 0.17% 3 419 3
+Upper Pittsgrove township Salem 6 0 No 0.27% 0.00% 1.02% 0.43% 8 266 8
+Woodstown borough Salem 6 9 No 0.35% 0.00% 1.26% 0.54% 10 307 10
+Bedminster township Somerset 3 6 No 0.50% 0.12% 1.24% 0.62% 72 844 72
+Bernards township Somerset 3 24 No 0.78% 1.51% 3.33% 1.88% 218 1000 218
+Bernardsville borough Somerset 3 0 No 0.36% 0.09% 2.48% 0.98% 113 551 113
+Bound Brook borough Somerset 3 91 No 0.38% 0.00% 0.42% 0.27% 31 836 31
+Branchburg township Somerset 3 0 No 3.88% 1.62% 2.18% 2.56% 297 1000 297
+Bridgewater township Somerset 3 130 No 5.64% 2.59% 4.02% 4.08% 474 1000 474
+Far Hills borough Somerset 3 0 No 0.04% 0.04% 0.99% 0.35% 41 74 41
+Franklin township Somerset 3 268 No 10.76% 4.58% 3.11% 6.15% 714 1000 714
+Green Brook township Somerset 3 26 No 0.56% 0.43% 2.10% 1.03% 120 487 120
+Hillsborough township Somerset 3 111 No 1.97% 8.97% 3.68% 4.87% 565 1000 565
+Manville borough Somerset 3 36 No 0.32% 0.03% 0.54% 0.30% 34 818 34
+Millstone borough Somerset 3 0 No 0.00% 0.01% 0.83% 0.28% 33 31 31
+Montgomery township Somerset 3 73 No 0.62% 1.95% 4.16% 2.24% 260 1000 260
+North Plainfield borough Somerset 3 427 No 0.90% 0.12% 0.62% 0.55% 64 1000 64
+Peapack-Gladstone borough Somerset 3 10 No -0.05% 0.45% 1.53% 0.64% 75 177 75
+Raritan borough Somerset 3 9 No 1.61% 0.24% 0.71% 0.85% 99 599 99
+Rocky Hill borough Somerset 3 4 No 0.05% 0.14% 0.76% 0.32% 37 56 37
+Somerville borough Somerset 3 103 No 0.91% 0.10% 0.90% 0.64% 74 1000 74
+South Bound Brook borough Somerset 3 67 No 0.08% 0.00% 0.50% 0.19% 22 371 22
+Warren township Somerset 3 10 No 0.69% 3.38% 2.72% 2.26% 262 1000 262
+Watchung borough Somerset 3 35 No 0.77% 0.87% 1.44% 1.03% 119 435 119
+Andover borough Sussex 1 0 No 0.04% 0.00% 0.17% 0.07% 20 51 20
+Andover township Sussex 1 11 No 0.20% 0.00% 0.55% 0.25% 69 420 69
+Branchville borough Sussex 1 4 No -0.02% 0.00% 0.43% 0.14% 38 67 38
+Byram township Sussex 1 27 No 0.21% 0.21% 0.83% 0.42% 115 589 115
+Frankford township Sussex 1 13 No 0.16% 0.00% 0.53% 0.23% 64 417 64
+Franklin borough Sussex 1 25 No 0.36% 3.43% 0.33% 1.37% 381 409 381
+Fredon township Sussex 1 0 No 0.05% 0.00% 0.71% 0.25% 70 238 70
+Green township Sussex 1 4 No 0.12% 1.88% 0.86% 0.95% 265 249 249
+Hamburg borough Sussex 1 0 No 0.08% 1.06% 0.22% 0.45% 125 290 125
+Hampton township Sussex 1 0 No 0.42% 0.00% 0.45% 0.29% 81 399 81
+Hardyston township Sussex 1 22 No 0.39% 16.44% 0.71% 5.85% 1622 674 674
+Hopatcong borough Sussex 1 3 No 0.29% 2.21% 0.81% 1.10% 306 1000 306
+Lafayette township Sussex 1 7 No 0.10% 0.00% 0.46% 0.19% 52 176 52
+Montague township Sussex 1 23 No 0.18% 0.00% 0.42% 0.20% 55 312 55
+Newton town Sussex 1 45 No 0.55% 0.00% 0.23% 0.26% 72 680 72
+Ogdensburg borough Sussex 1 4 No 0.03% 0.00% 0.40% 0.14% 40 175 40
+Sandyston township Sussex 1 4 No 0.05% 0.00% 0.36% 0.14% 38 161 38
+Sparta township Sussex 1 10 No 1.13% 1.68% 1.80% 1.54% 427 1000 427
+Stanhope borough Sussex 1 0 No 0.08% 1.24% 0.58% 0.63% 176 286 176
+Stillwater township Sussex 1 11 No 0.04% 0.00% 0.54% 0.19% 53 322 53
+Sussex borough Sussex 1 14 No 0.04% 0.00% 0.10% 0.05% 13 180 13
+Vernon township Sussex 1 33 No 0.28% 1.87% 1.14% 1.10% 304 1000 304
+Walpack township Sussex 1 0 No 0.00% 0.00% 0.00% 0.00% 0 1 0
+Wantage township Sussex 1 32 No 0.25% 0.00% 0.59% 0.28% 77 812 77
+Berkeley Heights township Union 2 0 No 1.10% 1.17% 1.76% 1.34% 275 897 275
+Clark township Union 2 71 No 1.33% 0.09% 1.01% 0.81% 166 1000 166
+Cranford township Union 2 204 No 1.42% 0.62% 1.88% 1.31% 268 1000 268
+Elizabeth city Union 2 3132 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+Fanwood borough Union 2 0 No 0.30% 0.03% 1.26% 0.53% 109 545 109
+Garwood borough Union 2 31 No 0.64% 0.01% 0.52% 0.39% 80 384 80
+Hillside township Union 2 224 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+Kenilworth borough Union 2 35 No 2.47% 0.09% 0.49% 1.01% 208 586 208
+Linden city Union 2 299 No 9.75% 0.74% 1.02% 3.84% 787 1000 787
+Mountainside borough Union 2 120 No 0.94% 0.49% 1.07% 0.83% 171 480 171
+New Providence borough Union 2 20 No 1.33% 0.23% 1.50% 1.02% 210 1000 210
+Plainfield city Union 2 1346 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+Rahway city Union 2 98 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+Roselle borough Union 2 360 Yes 0.00% 0.00% 0.00% 0.00% 0 1000 0
+Roselle Park borough Union 2 78 No 0.42% 0.04% 0.64% 0.37% 75 1000 75
+Scotch Plains township Union 2 53 No 0.61% 0.68% 2.29% 1.19% 244 1000 244
+Springfield township Union 2 53 No 2.07% 0.72% 1.37% 1.39% 284 1000 284
+Summit city Union 2 59 No 2.71% 0.24% 2.10% 1.68% 345 1000 345
+Union township Union 2 317 No 5.83% 0.56% 2.18% 2.86% 585 1000 585
+Westfield town Union 2 0 No 2.08% 0.71% 3.02% 1.94% 397 1000 397
+Winfield township Union 2 8 No 0.00% 0.05% 0.10% 0.05% 11 138 11
+Allamuchy township Warren 2 0 No 0.02% 3.38% 0.70% 1.37% 281 472 281
+Alpha borough Warren 2 4 No 0.19% 0.42% 0.23% 0.28% 58 194 58
+Belvidere town Warren 2 20 No 0.00% 1.54% 0.37% 0.64% 131 206 131
+Blairstown township Warren 2 0 No 0.19% 0.00% 0.75% 0.31% 65 421 65
+Franklin township Warren 2 32 No 0.17% 0.66% 0.55% 0.46% 95 225 95
+Frelinghuysen township Warren 2 0 No 0.07% 2.78% 0.50% 1.12% 229 156 156
+Greenwich township Warren 2 0 No 0.46% 9.46% 1.01% 3.64% 747 360 360
+Hackettstown town Warren 2 87 No 0.81% 0.20% 0.52% 0.51% 105 754 105
+Hardwick township Warren 2 0 No 0.00% 0.00% 0.42% 0.14% 29 116 29
+Harmony township Warren 2 4 No 0.66% 0.05% 0.32% 0.35% 71 199 71
+Hope township Warren 2 0 No 0.04% 0.00% 0.40% 0.15% 31 149 31
+Independence township Warren 2 6 No 0.09% 0.44% 0.42% 0.32% 65 465 65
+Knowlton township Warren 2 4 No 0.06% 0.00% 0.41% 0.16% 32 221 32
+Liberty township Warren 2 25 No 0.01% 0.00% 0.50% 0.17% 35 204 35
+Lopatcong township Warren 2 0 No 0.51% 0.25% 0.50% 0.42% 87 718 87
+Mansfield township Warren 2 7 No 0.53% 5.13% 0.46% 2.04% 418 628 418
+Oxford township Warren 2 0 No 0.02% 0.38% 0.40% 0.26% 54 193 54
+Phillipsburg town Warren 2 21 No 0.35% 0.50% 0.26% 0.37% 75 1000 75
+Pohatcong township Warren 2 0 No 0.20% 0.35% 0.40% 0.32% 65 262 65
+Washington borough Warren 2 0 No 0.13% 0.05% 0.21% 0.13% 27 600 27
+Washington township Warren 2 31 No 0.28% 1.77% 0.60% 0.89% 181 485 181
+White township Warren 2 100 No -0.05% 4.67% 0.09% 1.57% 322 434 322
