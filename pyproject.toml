@@ -1,0 +1,27 @@
+[project]
+name = "TSA_Real_Estate_2025"
+version = "0.1.0"
+description = "TSA REal Estate 2025 research."
+authors = [
+    {name = "sophia268238", email = "sophia268238@gmail.com"},
+]
+dependencies = [
+    "pandas>=2.2.3",
+    "matplotlib>=3.10.1",
+    "geopandas>=1.0.1",
+    "scipy>=1.15.2",
+    "folium>=0.19.5",
+    "seaborn>=0.13.2",
+]
+requires-python = ">=3.12"
+readme = "README.md"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
+
+[tool.pdm.dev-dependencies]
+dev = [
+    "jupyter>=1.1.1",
+]
